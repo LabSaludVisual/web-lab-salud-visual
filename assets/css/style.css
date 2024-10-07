@@ -467,13 +467,13 @@ body::before {
 .contact-image1 {
   display: block;
   margin-right: 20px; /* 20px de espacio a la derecha de la imagen */
-  max-width: 80%; 
+  max-width: 65%; 
   height: auto;
 }
 .contact-image3 {
   display: block;
   margin-right: 20px; /* 20px de espacio a la derecha de la imagen */
-  max-width: 50%; 
+  max-width: 38%; 
   height: auto;
 }
 .contact-image {
